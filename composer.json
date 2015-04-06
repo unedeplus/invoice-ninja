@@ -18,7 +18,7 @@
 		"chumper/datatable": "2.x",
 		"omnipay/omnipay": "~2.0",
 		"intervention/image": "1.x",
-		"webpatser/laravel-countries": "dev-master",
+		"webpatser/laravel-countries": "1.3.4",
 		"barryvdh/laravel-ide-helper": "~1.0",
         "doctrine/dbal": "~2.3",
         "jsanc623/phpbenchtime": "2.x",
